@@ -1,0 +1,5 @@
+Rock-paper-scissors is a hand game that is typically played between two people. It's a game of chance where each player simultaneously forms one of three shapes with their hand. The three shapes represent "rock" (a closed fist), "paper" (an open hand), and "scissors" (a fist with the index and middle fingers extended).
+
+The game is often used as a way to make a decision between two options or to settle a dispute. The basic rule is that rock beats scissors, scissors beat paper, and paper beats rock. If both players make the same choice, then it's a tie and the game is usually played again.
+
+The game is simple and can be played anywhere, making it a popular choice for passing the time or settling disagreements.
